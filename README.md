@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gayatri 👋</h1>
-<h3 align="center">CS Student | Competitive Programming | Blockchain | HFT Aspirant</h3>
+<h3 align="center">CS Student | Competitive Programming | Blockchain </h3>
 
 ---
 
