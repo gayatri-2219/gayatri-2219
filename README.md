@@ -9,7 +9,7 @@
 💡 Interests:
 - ⚡ Competitive Programming & Algorithms  
 - 🔗 Blockchain & Distributed Systems  
-- 📈 High Frequency Trading (Quant + Systems side)
+
 
 🎯 Goal: Build strong fundamentals in **DSA, math, and systems** while contributing to **open source** and real-world projects.
 
@@ -32,12 +32,12 @@
 ## 📌 Featured Work
 - 🧩 Competitive Programming solutions  
 - 🔗 Blockchain mini-projects  
-- 🌱 Open source contributions (GSSoC / SoB aspirant)
+- 🌱 Open source contributions 
 
 ---
 
 ## 🤝 Let’s Connect
-- 💼 LinkedIn:[ https://linkedin.com/in/yourname  ](https://www.linkedin.com/in/gayatri-sondekar-b751a2232/)
+- 💼 LinkedIn:[linkedIn](https://www.linkedin.com/in/gayatri-sondekar-b751a2232/)
 - 📧 Email: gayatrisondekar19@gmail.com 
 
 ---
