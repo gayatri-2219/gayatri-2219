@@ -1,38 +1,38 @@
 <h1 align="center">Hi, I'm Gayatri 👋</h1>
-<h3 align="center">CS Student | Competitive Programming | Blockchain </h3>
+<h3 align="center">CS Student | Cyber Security | Blockchain </h3>
 
 ---
 
-🚀 I’m a computer science student passionate about  
+ I’m a computer science student passionate about  
 **problem solving, low-latency systems, and decentralized tech.**
 
 💡 Interests:
-- ⚡ Competitive Programming & Algorithms  
-- 🔗 Blockchain & Distributed Systems  
+-  Cyber Security 
+-  Blockchain & Distributed Systems  
 
 
-🎯 Goal: Build strong fundamentals in **DSA, math, and systems** while contributing to **open source** and real-world projects.
+ Goal: Build strong fundamentals in **blockchain, math, and systems** while contributing to **open source** and real-world projects.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,python,js,go,java,git,github,linux,react,nodejs" />
 </p>
 
 ---
 
-## 🧠 What I’m currently working on
-- Improving **CP rating** on Codeforces / LeetCode  
+##  What I’m currently working on
+
 - Building small **blockchain prototypes**  
 - Learning about **low-latency systems & trading infra**
 
 ---
 
 ## 📌 Featured Work
-- 🧩 Competitive Programming solutions  
-- 🔗 Blockchain mini-projects  
-- 🌱 Open source contributions 
+- Web 3 -
+- Blockchain -
+- Open source contributions 
 
 ---
 
@@ -43,4 +43,4 @@
 ---
 
 
-I enjoy turning hard problems into elegant solutions ⚡
+I enjoy turning hard problems into elegant solutions 
