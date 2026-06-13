@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gayatri 👋</h1>
-<h3 align="center">CS Student | Cyber Security | Blockchain </h3>
+<h3 align="center"> | AI ML | Distributed Systems | Web3 </h3>
 
 ---
 
@@ -7,11 +7,11 @@
 **problem solving, low-latency systems, and decentralized tech.**
 
 💡 Interests:
--  Cyber Security 
+-  AI ,ML, Deep Learning 
 -  Blockchain & Distributed Systems  
 
 
- Goal: Build strong fundamentals in **blockchain, math, and systems** while contributing to **open source** and real-world projects.
+ Goal: Build strong fundamentals in **Machine learning ,blockchain, and systems** while contributing to **open source** and real-world projects.
 
 ---
 
@@ -24,15 +24,11 @@
 
 ##  What I’m currently working on
 
-- Building small **blockchain prototypes**  
-- Learning about **low-latency systems & trading infra**
+- Building AI legal Assistant using QVAC **VAKEELs**  
+- Learning about **Distributed systems & GenAI**
 
 ---
 
-## 📌 Featured Work
-- Web 3 -
-- Blockchain -
-- Open source contributions 
 
 ---
 
