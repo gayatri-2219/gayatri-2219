@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gayatri 👋</h1>
-<h3 align="center"> | AI ML | Distributed Systems | Web3 </h3>
+<h3 align="center">  AI ML | Distributed Systems | Web3 </h3>
 
 ---
 
